@@ -13,12 +13,12 @@
 
 Some closer shots of the overall PCB. Based on unpopulated slots there seems to be a version of this that has a BT connection.
 
-Standard JST PH 2-pin for the battery. I reckon you could replace the battery with something else.
+You do need to remove the battery and daughterboard connection to lift out the PCB and top plate.
 
 ![_DSC3216_compressed](https://github.com/user-attachments/assets/4f364350-c8ac-4692-9468-ede162a9a1b7)
 ![_DSC3215_compressed](https://github.com/user-attachments/assets/e0511e84-173a-4628-a998-75d9399344ad)
 
-Battery is a 3.7V, 1850mAh LiPo cell. There is also the daughterboard for the USB-C plug, which appears to be a JST-SH connector. The overall structure of the molded bottom case shows the structural ridges, standoffs, the magnetized dock for the 2.4GHz receiver, and a cutout for the ON/OFF switch.
+Battery is a 3.7V, 1850mAh LiPo cell. Standard JST PH 2-pin for the battery. I reckon you could replace the battery with something else. There is also the daughterboard for the USB-C plug, which appears to be a JST-SH connector. The overall structure of the molded bottom case shows the structural ridges, standoffs, the magnetized dock for the 2.4GHz receiver, and a cutout for the ON/OFF switch.
 
 ![_DSC3211_compressed](https://github.com/user-attachments/assets/45f9988a-3062-4b2a-8389-a1d9df5bfb00)
 ![_DSC3213_compressed](https://github.com/user-attachments/assets/60636c8f-8aa5-4ebf-b90a-be0ec88523d5)
