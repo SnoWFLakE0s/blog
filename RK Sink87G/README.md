@@ -13,7 +13,7 @@
 
 Some closer shots of the overall PCB. Based on unpopulated slots there seems to be a version of this that has a BT connection.
 
-Standard JST XH 2-pin for the battery.
+Standard JST PH 2-pin for the battery. I reckon you could replace the battery with something else.
 
 ![_DSC3216_compressed](https://github.com/user-attachments/assets/4f364350-c8ac-4692-9468-ede162a9a1b7)
 ![_DSC3215_compressed](https://github.com/user-attachments/assets/e0511e84-173a-4628-a998-75d9399344ad)
