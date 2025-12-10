@@ -8,9 +8,13 @@ Run 1:
 - MC 13992 pts
 - SC 1599 pts
 
+Thinking that somehow VT was the problem, I tried turning it off the BIOS... which also makes you lose all your passkeys apparently. Very annoying behavior.
+
 Run 2 (Virtualization Disabled):
 - MC 14412 pts
 - SC 1635 pts
+
+That's about a 2-3% improvement, but with the variation apparent in these CB results I think that I might've just gotten lucky on this run (still not up to part with online results). I tried other performance presets which seemed to engage the fan more.
 
 **Smart Mode**
 
