@@ -30,12 +30,12 @@ Run 1:
 
 ___
 
-Results have too high of a variation of properly contextualize; this is inconsistent with testing done a year and some ago by benchmark sites. NotebookCheck gets around 1708 SC and 15154 MC. My machine has around a 5-7% deficit despite a clean install of the OS.
+Results have too high of a variation of properly contextualize; this is inconsistent with testing done a year and some ago by benchmark sites. [NotebookCheck gets around 1708 SC and 15154 MC.](https://www.notebookcheck.net/Intel-Core-Ultra-7-155H-Processor-Benchmarks-and-Specs.783323.0.html) My machine has around a 5-7% deficit despite a clean install of the OS, the cause of which I can only assume is the CPU not being able to clock high enough.
 
 Using HWInfo to monitor sensors, the processor is constantly pegged at 100C and is thermal throttling. Notably, however, the power limits seem to be working fine, the package power is stable around 20~30 W under SC loads and will stabilize around 45W for MC. 
 
 Despite these loads, the fans hardly spin; the fan curve that comes on this laptop is very very limited. The fan will actually work harder in lower performance presets like "cool". 
 
-GPU performance is frankly satisfactory for my use, especially for a mere 55W part, and I do not need to test it. If Nvidia's metrics are to be believed the GPU has no problem maintaining 55W load (while on AC power).
+GPU performance is frankly satisfactory for my use, especially for a mere 55 W part, and I did not feel the need to test it, as it performed how I expected it to in some games. If Nvidia's metrics are to be believed the GPU has no problem maintaining 55W load (while on AC power). On battery the power load fluctuates but is generally around 35-40 W.
 
 I've reinstalled Windows around 4 times on this machine trying to figure it out, it is just too inconsistent.
