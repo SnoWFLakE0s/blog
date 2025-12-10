@@ -3,19 +3,23 @@ Some odd testing results with this laptop. Testing done with Windows 11 24H2 (Io
 Using the ["HP" app (hidden, but accessible through Microsoft Store)](https://apps.microsoft.com/detail/9n9phdt62w94?hl=en-US&gl=US). System presets can be selected there.
 
 **Performance Mode**
+
 Run 1:
 - MC 13992 pts
 - SC 1599 pts
+
 Run 2 (Virtualization Disabled):
 - MC 14412 pts
 - SC 1635 pts
 
 **Smart Mode**
+
 Run 1:
 - MC 13625 pts
 - SC 1604 pts
 
 **Balanced Mode**
+
 Run 1: 
 - MC 13725 pts
 - SC 1599 pts
