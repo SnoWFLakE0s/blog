@@ -16,11 +16,25 @@ Run 2 (Virtualization Disabled):
 
 That's about a 2-3% improvement, but with the variation apparent in these CB results I think that I might've just gotten lucky on this run (still not up to part with online results). I tried other performance presets which seemed to engage the fan more.
 
+After repasting the CPU with some aftermarket stuff (granted, on my unit, the factory paste was still pretty fresh and not crusty), I saw some differences. I also turned virtualization back on and to "default" settings.
+
+Run 3 (After repaste):
+- MC 14092 pts
+- SC 1648 pts
+
 **Smart Mode**
 
 Run 1:
 - MC 13625 pts
 - SC 1604 pts
+
+Now, after the thermal repaste, I tried the smart mode out of curiosity because it seems to engage the fans more. The results were a bit surprising:
+
+Run 2 (After repaste):
+- MC 14118 pts
+- SC 1760 pts
+
+This was much better than any result I've had before, both in MC and SC. It would seem that for this laptop the Smart Mode might actually be the best performance preset to use. Pretty unusual, but it works. The CPU will still reach 100C and throttle, but the wattage somehow remains more consistent now. The MC scores a tad bit low but overall seems like performance is as expected now.
 
 **Balanced Mode**
 
